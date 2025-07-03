@@ -1,0 +1,16 @@
+name: cdproject
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - ujson
+  - numpy
+  - pip
+  - spacy
+  - tensorboard
+  - tensorflow
+  - tensorboardX
+  - tqdm
+  - urllib3
